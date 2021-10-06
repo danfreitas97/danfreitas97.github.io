@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+main {
+  background-color: #0f0f0f;
+}
+
 a:hover {
   color: #047ffc;
 }
@@ -173,11 +177,9 @@ nav a {
 }
 
 .grid {
-  display: inline-block;
-  width: 100%;
-  padding: 40px;
   margin: 50px;
   border: none;
+  background-color: #0f0f0f;
 }
 .icons li {
   display: inline-block;
@@ -187,11 +189,10 @@ nav a {
   justify-content: center;
   width: 10%;
   vertical-align: top;
-  padding: 30px 0;
-  margin: 0 1.5%;
+  margin: 1.5% 1.5%;
+  padding: 1.5% 1.5%;
   box-sizing: border-box;
-  border: none;
-  padding-bottom: 7%;
+  background-color: #0f0f0f;
 }
 
 i {
@@ -202,7 +203,6 @@ i {
   background-color: #0f0f0f;
   color: white;
   padding: 20px 20px;
-  border: none;
 }
 
 .pro {
@@ -214,7 +214,6 @@ i {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 40px;
-  border: none;
 }
 
 .profi li {
