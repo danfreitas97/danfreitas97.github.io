@@ -1,7 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
 @media screen and (max-width: 480px) {
-  html body main header footer div nav .container .cont {
+  html,
+  body,
+  main,
+  header,
+  footer,
+  div,
+  nav,
+  .container,
+  .cont {
     width: auto;
   }
 }
