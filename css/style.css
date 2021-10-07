@@ -16,6 +16,7 @@
 
 html {
   display: flex;
+  scroll-behavior: smooth;
 }
 
 * {
