@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 
 @media screen and (max-width: 480px) {
   html body main header footer div nav .container .cont {
@@ -35,7 +35,7 @@ a:hover {
 
 h1 {
   padding-left: 20px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   font-size: 25px;
   font-weight: bold;
@@ -43,7 +43,7 @@ h1 {
 
 h3 {
   padding-left: 10px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   font-size: 18px;
   font-weight: bold;
@@ -51,7 +51,7 @@ h3 {
 }
 
 nav li a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 14px;
   color: white;
@@ -59,7 +59,7 @@ nav li a {
 }
 
 footer li a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 14px;
   color: white;
@@ -90,7 +90,7 @@ footer a {
 }
 
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   font-weight: bold;
   font-size: 12px;
@@ -117,7 +117,7 @@ nav a {
 }
 
 #inicio {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 10px -2px 5px black;
   font-weight: bold;
@@ -128,7 +128,7 @@ nav a {
 }
 
 #desc {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -149,7 +149,7 @@ nav a {
   background-color: #0f0f0f;
   color: white;
   padding: 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   display: inline-block;
   text-align: center;
   justify-content: center;
@@ -160,7 +160,7 @@ nav a {
 }
 
 .sobremim {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -185,7 +185,7 @@ nav a {
 }
 
 .sk {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -203,7 +203,7 @@ nav a {
 }
 .icons li {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
   justify-content: center;
@@ -226,7 +226,7 @@ i {
 }
 
 .pro {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -238,7 +238,7 @@ i {
 
 .profi li {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
   justify-content: center;
@@ -264,7 +264,7 @@ i {
 }
 
 .edu {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -283,7 +283,7 @@ i {
 
 .educ li {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
   justify-content: center;
@@ -303,7 +303,7 @@ i {
 }
 
 .cur {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -316,7 +316,7 @@ i {
 
 .curs li {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
   justify-content: center;
@@ -343,7 +343,7 @@ i {
 }
 
 .contat {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-shadow: 4px -3px 3px black;
   font-weight: bold;
@@ -362,7 +362,7 @@ i {
 
 .cont li {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
   justify-content: center;
