@@ -156,6 +156,7 @@ nav a {
 .sobre2 {
   background-color: #0f0f0f;
   color: white;
+  line-height: 1.8em;
   padding: 20px 0;
   font-family: "Poppins", sans-serif;
   display: inline-block;
@@ -247,6 +248,7 @@ i {
 
 .profi li {
   display: inline-block;
+  line-height: 1.8em;
   font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
@@ -294,6 +296,7 @@ i {
   display: inline-block;
   font-family: "Poppins", sans-serif;
   color: #fff;
+  line-height: 1.8em;
   text-align: center;
   justify-content: center;
   width: 45%;
@@ -327,6 +330,7 @@ i {
   display: inline-block;
   font-family: "Poppins", sans-serif;
   color: #fff;
+  line-height: 1.8em;
   text-align: center;
   justify-content: center;
   width: 45%;
