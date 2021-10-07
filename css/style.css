@@ -186,12 +186,7 @@ nav a {
   padding-bottom: 30px;
 }
 
-.skills {
-  background-color: #0f0f0f;
-  color: white;
-  border: none;
-}
-
+/*Titulo Skills*/
 .sk {
   font-family: "Poppins", sans-serif;
   color: #fff;
@@ -199,27 +194,33 @@ nav a {
   font-weight: bold;
   font-size: 40px;
   text-align: center;
-  margin-top: 45px;
-  padding-bottom: 20px;
+  padding: 45px 45px;
   border: none;
 }
 
-.grid {
-  margin: 50px;
-  border: none;
+.skills {
+  width: 940px;
+  margin: 20px auto;
+  display: flex;
   background-color: #0f0f0f;
 }
+
+.icons {
+  display: inline-block;
+  list-style-type: none;
+  justify-content: center;
+}
+
 .icons li {
   display: inline-block;
   font-family: "Poppins", sans-serif;
   color: #fff;
   text-align: center;
   justify-content: center;
-  width: 10%;
   vertical-align: top;
-  margin: 1.5% 1.5%;
-  padding: 1.5% 1.5%;
-  box-sizing: border-box;
+  width: 20%;
+  margin: 20px 20px;
+  padding: 10px 10px;
   background-color: #0f0f0f;
 }
 
