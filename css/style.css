@@ -66,6 +66,10 @@ a:hover {
   color: #69d466;
 }
 
+h1:hover {
+  color: #69d466;
+}
+
 #inicio:active {
   color: #69d466;
   cursor: none;
