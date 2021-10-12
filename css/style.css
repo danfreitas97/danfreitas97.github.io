@@ -12,6 +12,35 @@
   .cont {
     width: auto;
   }
+
+  .curs,
+  .educ,
+  .profi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    width: 90%;
+  }
+
+  li h3 {
+    font-size: 2.5rem;
+  }
+
+  #sobremim,
+  #sk,
+  #contat,
+  #cur,
+  #edu,
+  #pro {
+    font-size: 4rem;
+    margin: 10% auto;
+  }
+
+  .descricao {
+    font-size: 2rem;
+  }
 }
 
 html {
